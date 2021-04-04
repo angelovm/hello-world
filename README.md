@@ -1,5 +1,6 @@
 # hello-world
 Just an ordinary repository
 
+Hi,
 
-Hi, this is an additional text to the ordinary repository
+This is just an additional text
